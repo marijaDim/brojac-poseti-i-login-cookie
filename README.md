@@ -1,4 +1,5 @@
-# counter if visits/log inn- cookie 
+** counter of visits
+**log inn- cookie 
 
 
-vezba cookie
+practice cookie
